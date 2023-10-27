@@ -1,0 +1,8 @@
+﻿CREATE Function dbo.GetDetails(@Id int)
+RETURNS VARCHAR(15)
+AS
+BEGIN
+DECLARE @Name VARCHAR(15)
+SELECT @Name=FirstName FROM Customer WHERE ID=@Id
+RETURN @Name
+END

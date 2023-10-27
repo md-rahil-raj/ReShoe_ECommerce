@@ -1,0 +1,7 @@
+C:\a\ReShoe_ECommerce\Reshoe\Reshoe\bin\Debug\Reshoe.exe.config
+C:\a\ReShoe_ECommerce\Reshoe\Reshoe\bin\Debug\Reshoe.exe
+C:\a\ReShoe_ECommerce\Reshoe\Reshoe\bin\Debug\Reshoe.pdb
+C:\a\ReShoe_ECommerce\Reshoe\Reshoe\obj\Debug\Reshoe.csproj.AssemblyReference.cache
+C:\a\ReShoe_ECommerce\Reshoe\Reshoe\obj\Debug\Reshoe.csproj.CoreCompileInputs.cache
+C:\a\ReShoe_ECommerce\Reshoe\Reshoe\obj\Debug\Reshoe.exe
+C:\a\ReShoe_ECommerce\Reshoe\Reshoe\obj\Debug\Reshoe.pdb
